@@ -64,6 +64,7 @@ h1 {
 }
 
 .weather-info {
+    background-color: blue;
     border: 2px solid #000000;
     border-radius: 10px;
     margin-top: 20px;
